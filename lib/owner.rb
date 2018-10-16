@@ -66,7 +66,9 @@ class Owner
       end
     binding.pry
 
+    end
   end
+  
 
 
 end
