@@ -65,8 +65,8 @@ class Owner
         animal.mood = "nervous"
       end
     binding.pry
-      
+
   end
-  
+
 
 end
